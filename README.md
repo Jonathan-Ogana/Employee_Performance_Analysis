@@ -167,11 +167,6 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-## Dashboard Preview
-
-![Employee Performance Dashboard](<img width="1920" height="1080" alt="Employee - Report" src="https://github.com/user-attachments/assets/966c65cc-4f3d-4e7a-8bfc-97a521afe021" />
-)
-
 ---
 
 ## Project Structure
