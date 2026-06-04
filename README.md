@@ -177,8 +177,7 @@ Employee-Performance-Analytics-Dashboard/
 ├── Employee Performance Dashboard.xlsx
 ├── Dashboard.png
 ├── README.md
-└── Data/
-    └── Employee_Performance_Data.xlsx
+
 ```
 
 ---
